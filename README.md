@@ -3,7 +3,6 @@
 ![](https://raw.githubusercontent.com/vicholp/vicholp/master/profile-summary-card-output/github_dark/0-profile-details.svg)
 
 - 📚 I’m currently studying at UTFSM.
-- 🌱 I’m currently learning Rails and Vue.
 
 ### My main stack:
 
