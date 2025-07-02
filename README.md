@@ -3,6 +3,7 @@
 ![](https://raw.githubusercontent.com/vicholp/vicholp/master/profile-summary-card-output/github_dark/0-profile-details.svg)
 
 - 📚 I’m currently studying at UTFSM.
+- 🏢 Working at [Nursoft](nursoft.cl)
 
 ### My main stack:
 
